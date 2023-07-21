@@ -1,9 +1,22 @@
 body {
     background-color: #5D3891;
+    color: #F5F5F5;
   }
+  hr{
+    border-style: dashed;
+    border-color: #E8E2E2;
+    width: 50%;
+  }
+ #hall_of_fame:hover{
+  font-size: 50px;
+ }
+ #about:hover{
+  font-size: 50px;
+ }
   div {
-    width: 300px;
+    
     color: #F99417;
     padding: 50px;
     margin: 20px;
+    width: 300px;
   } 
